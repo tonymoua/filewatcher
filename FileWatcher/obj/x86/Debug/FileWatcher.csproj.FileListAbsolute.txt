@@ -1,0 +1,4 @@
+c:\users\tony moua\documents\visual studio 2010\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.exe
+c:\users\tony moua\documents\visual studio 2010\Projects\FileWatcher\FileWatcher\bin\Debug\FileWatcher.pdb
+c:\users\tony moua\documents\visual studio 2010\Projects\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.exe
+c:\users\tony moua\documents\visual studio 2010\Projects\FileWatcher\FileWatcher\obj\x86\Debug\FileWatcher.pdb
