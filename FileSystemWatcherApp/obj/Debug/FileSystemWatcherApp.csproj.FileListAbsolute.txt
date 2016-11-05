@@ -1,0 +1,38 @@
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe.config
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.pdb
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csprojResolveAssemblyReference.cache
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Form1.resources
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Properties.Resources.resources
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csproj.GenerateResource.Cache
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.exe
+\\netstorage.eastern.ewu.edu\tmoua91\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.pdb
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe.config
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.exe
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.pdb
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.pdb
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csprojResolveAssemblyReference.cache
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Form1.resources
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Properties.Resources.resources
+N:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csproj.GenerateResource.Cache
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe.config
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.pdb
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Form1.resources
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Form2.resources
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Properties.Resources.resources
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csproj.GenerateResource.Cache
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.exe
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.pdb
+E:\CSCD371\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csprojResolveAssemblyReference.cache
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe.config
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.exe
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.pdb
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.exe
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\bin\Debug\FileSystemWatcherApp.pdb
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csprojResolveAssemblyReference.cache
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Form1.resources
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Form2.resources
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.Properties.Resources.resources
+C:\Users\Tony Moua\Desktop\FileSystemWatcherApp\FileSystemWatcherApp\obj\Debug\FileSystemWatcherApp.csproj.GenerateResource.Cache
